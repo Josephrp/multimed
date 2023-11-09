@@ -10,4 +10,26 @@ pinned: true
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# multimed
+an accessible gradio interface with a jailbreak GPT4-V prompt and using seamless M4T built with vectara embeddings.
+
+## To install 
+
+- download multimed using the command line 
+
+```bash 
+git clone https://github.com/Josephrp/multimed.git
+```
+```bash
+cd multimed
+```
+
+```bash
+pip install requirements.txt
+```
+
+## To run
+
+```bash
+python app.py
+```
