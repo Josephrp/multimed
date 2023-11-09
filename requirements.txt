@@ -1,0 +1,6 @@
+python-dotenv
+Pillow==10.0.1
+scipy
+openai==1.1.2
+gradio==4.1.2
+gradio_client==0.7.0

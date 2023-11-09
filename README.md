@@ -1,2 +1,13 @@
-# multimed
-an accessible gradio interface with a jailbreak GPT4-V prompt and using seamless M4T built with vectara embeddings
+---
+title: MultiMed
+emoji: ⚕️😷🦠
+colorFrom: purple
+colorTo: blue
+sdk: gradio
+sdk_version: 4.0.2
+app_file: app.py
+pinned: true
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
